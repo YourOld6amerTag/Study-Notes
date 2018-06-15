@@ -5,3 +5,5 @@ learned how to push material into grou repository on GitHub
 Listened to guest speaker and learned to create website through Netfily
 # 5/29
 Worked on HTML track, listened to guest speaker
+# 6/14
+made a name tag today, it wwas pretty dope
